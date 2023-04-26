@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is John
 #### Cloud/DevOps Engineer
-![I am GitHub Readme Generator's creator](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![Header](./github-header-image-2.png)
 
 I am a DevOps engineer with a keen interest for web development. I enjoy automating workflows, scripting and python development!
 
