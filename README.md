@@ -6,5 +6,6 @@ I am a DevOps engineer with a keen interest for web development.
 
 Skills: AWS / Azure / CI/CD / Python / IaC 
 
-- 🔭 I’m currently working on this page. 
+- 🔭 I’m currently working on this page.
+
 ![](https://komarev.com/ghpvc/?username=your-github-username&color=green)
