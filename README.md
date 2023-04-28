@@ -8,4 +8,4 @@ Skills: AWS / Azure / CI/CD / Python / IaC
 
 - 🔭 I’m currently working on this page.
 
-![](https://komarev.com/ghpvc/?username=your-github-username&color=green)
+![](https://komarev.com/ghpvc/?username=Sade10k&color=green)
