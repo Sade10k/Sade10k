@@ -1,11 +1,10 @@
 ### Hi there 👋, my name is John
-#### Cloud/DevOps Engineer
+#### Software Engineer
 ![Header](./github-header-image-2.png)
 
-I am a DevOps engineer with a keen interest for web development. I enjoy automating workflows, scripting and python development!
+I am a Software engineer with a keen interest for developing solutions. I enjoy automating workflows, scripting, development and am an avid sports fan!
 
-Skills: AWS / Azure / CI/CD / Python / IaC 
-
+Skills: AWS / Azure / CI/CD / Python / React /.NET / IaC 
 - 🔭 I’m currently working on this page.
 
 ![](https://komarev.com/ghpvc/?username=Sade10k&color=green)
